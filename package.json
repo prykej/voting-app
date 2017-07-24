@@ -13,8 +13,5 @@
   "devDependencies": {
     "concurrently": "2.2.0",
     "live-server": "git://github.com/acco/live-server.git"
-  },
-  "dependencies": {
-    "semantic-ui": "2.2.10"
   }
 }
